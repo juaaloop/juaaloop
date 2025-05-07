@@ -1,7 +1,9 @@
 
+```
 <div align="center">
-  <img src="[https://tenor.com/bC7yd.gif](https://media1.tenor.com/m/iI_miV3PReUAAAAd/fish.gif)" alt="pececitos" width="200">
+  <img src="https://media1.tenor.com/m/iI_miV3PReUAAAAC/fish.gif" alt="pececitos" width="400">
 </div>
+```
 <h1 align="center">
  𓏲 ๋࣭ ࣪ 🪼 Hola !! Soy Juana  ଳ ⋆˚꩜｡
 </h1>
