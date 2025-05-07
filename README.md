@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">
+ 𓏲 ๋࣭ ࣪ 🪼 Hola !! Soy Juana  ଳ ⋆˚꩜｡
+</h1>
 
-<!--
-**juaaloop/juaaloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+<li> ᯓ★ Estudiante de la especialidad <b>informática</b> en la <b>Escuela ORT</b>.</li>
+<li>ᯓ★ Aprendiendo C# y JavaScript.</li>
 
-Here are some ideas to get you started:
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+🎏 <a href="https://www.linkedin.com/in/juana-l%C3%B3pez-valenzuela-392893361/" target="_blank">LinkedIn</a> <br>
+📮 <a href="mailto:juana@lopezvalenzuela.com">juana@lopezvalenzuela.com</a></p>
+</div>
+
+<p>
+  
+  Gracias por visitarme :)
+</p>
+
